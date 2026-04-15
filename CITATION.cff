@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this HESCOR-specific fork, please cite it as below. Please also acknowledge the upstream ckanext-scheming project where relevant."
+type: software
+title: "ckanext-scheming (HESCOR metadata-schema fork)"
+version: "v0.1.0"
+date-released: "2026-04-15"
+license: "MIT"
+repository-code: "https://github.com/roink/ckanext-scheming"
+url: "https://github.com/roink/ckanext-scheming"
+
+authors:
+  - family-names: "Schlüter"
+    given-names: "Philipp"
+    orcid: "https://orcid.org/0009-0001-7947-5222"
+    affiliation: "University of Cologne"
+  - family-names: "Robakiewicz"
+    given-names: "Elena"
+    orcid: "https://orcid.org/0000-0002-3399-3630"
+    affiliation: "University of Cologne"
+
+abstract: "HESCOR-specific fork of ckanext-scheming, adapted to implement, test, and maintain the metadata schema and schema-driven form behavior used in the HESCOR database."
+
+keywords:
+  - "CKAN"
+  - "ckanext-scheming"
+  - "metadata schema"
+  - "research data management"
+  - "HESCOR"
+
+references:
+  - type: software
+    title: "ckanext-scheming"
+    authors:
+      - name: "CKAN contributors"
+    repository-code: "https://github.com/ckan/ckanext-scheming"
+    url: "https://github.com/ckan/ckanext-scheming"
+    license: "MIT"
