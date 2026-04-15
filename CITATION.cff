@@ -7,6 +7,7 @@ date-released: "2026-04-15"
 license: "MIT"
 repository-code: "https://github.com/roink/ckanext-scheming"
 url: "https://github.com/roink/ckanext-scheming"
+doi: "10.5281/zenodo.19596613"
 
 authors:
   - family-names: "Schlüter"
